@@ -1,1 +1,1 @@
-# csc245
+# CSC 245 Data Science
